@@ -1,4 +1,4 @@
-gomq
+GOMQ
 ====
 
-IBM Websphere MQ Bindings
+IBM Websphere MQ Binding for Go (golang).
